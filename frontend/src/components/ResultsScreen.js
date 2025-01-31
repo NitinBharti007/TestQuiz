@@ -3,7 +3,6 @@ import { motion } from 'framer-motion';
 export default function ResultsScreen({ baseScore, streakBonus, totalQuestions, maxStreak, restartQuiz }) {
   const totalScore = baseScore + streakBonus;
   const maxBaseScore = totalQuestions * 10;
-  const percentage = (baseScore / maxBaseScore) * 100;
 
   return (
     <motion.div 
