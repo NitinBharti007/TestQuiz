@@ -7,7 +7,7 @@ import ConfettiOverlay from "./components/ConfettiOverlay";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-const API_URL = "http://localhost:5000/api/quiz";
+const API_URL = "https://testquiz-5ydd.onrender.com/api/quiz";
 
 export default function App() {
   const [quizData, setQuizData] = useState(null);
