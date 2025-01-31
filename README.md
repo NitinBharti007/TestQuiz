@@ -2,7 +2,7 @@
 
 
 **Loom Video Link**
-![Project Video](https://www.loom.com/share/c057ecb1ae8e420790e67bfea54ccf50?sid=98e7da78-71d5-4cc5-a6ea-269c33899af2)
+[Project Video](https://www.loom.com/share/c057ecb1ae8e420790e67bfea54ccf50?sid=98e7da78-71d5-4cc5-a6ea-269c33899af2)
 
 
 QuizMaster is a modern, web-based quiz application designed to provide an engaging and interactive user experience. It features gamification elements like streaks, scoring, and animations to make learning fun and competitive.
