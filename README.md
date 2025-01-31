@@ -64,29 +64,19 @@ QuizMaster is a modern, web-based quiz application designed to provide an engagi
 
 ## Usage
 
-1. **Start the Quiz**:
-   -Click the "Start Quiz" button on the welcome screen.
+1. **Start the Quiz**: Click the "Start Quiz" button on the welcome screen.
 
-2. **Answer Questions**:
-   -Read the question and select one of the multiple-choice options.
-   -Earn 10 base points for each correct answer**.
-   -Get bonus points for maintaining a streak of correct answers.
+2. **Answer Questions**: Read the question and select one of the multiple-choice options. Earn 10 base points for each correct answer**. Get bonus points for maintaining a streak of correct answers.
 
-3. **Track Progress**:
-   -Use the progress bar to see how many questions are left.
-   -Check your current score and streak in the scorecard**.
+3. **Track Progress**: Use the progress bar to see how many questions are left. Check your current score and streak in the scorecard.
    
-4. **View Results**:
-   -After completing all questions, see your total score, percentage, and streak.
-   -Celebrate with confetti animation!
+4. **View Results**: After completing all questions, see your total score, percentage, and streak. Celebrate with confetti animation!
 
-5. **Restart Quiz**:
-   -Click the "Play Again" button to restart the quiz with new questions.
+5. **Restart Quiz**: Click the "Play Again" button to restart the quiz with new questions.
 
 ## Error Handling
 
--If the API fails to load, the app displays an error message.
--If the API returns invalid data, the app gracefully handles it and notifies the user.
+If the API fails to load, the app displays an error message. If the API returns invalid data, the app gracefully handles it and notifies the user.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
@@ -101,5 +91,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For questions or feedback, feel free to reach out:
-Your Name: dev.nitin63@gmail.com
-GitHub: NitinBharti007
+**Email**: dev.nitin63@gmail.com
+**GitHub**: NitinBharti007
