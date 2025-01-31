@@ -80,6 +80,7 @@ export default function App() {
     setCurrentQuestion(0);
     setScore(0);
     setStreak(0);
+    setStreakBonus(0);
     setGameStatus("playing");
   };
 
